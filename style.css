@@ -1,0 +1,20 @@
+html {
+    background-color: #181a1b;
+    color: white;
+    font-family: 'Rubik';
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+}
+
+.mxm {
+    color: #ff365f;
+    text-decoration: none;
+}
+
+.stf {
+    color: #1ed760;
+    text-decoration: none;
+}
